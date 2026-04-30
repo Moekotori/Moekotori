@@ -18,8 +18,6 @@
 
 <div align="center">
 
-`🌸 ━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━ 🌸`
-
 </div>
 
 ## 🍓 自我紹介 · About Me
@@ -39,8 +37,6 @@ const moekotori = {
 
 <div align="center">
 
-`🍡 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🍡`
-
 </div>
 
 <div align="center">
@@ -53,8 +49,6 @@ const moekotori = {
 <br />
 
 <div align="center">
-
-`🎀 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🎀`
 
 </div>
 
