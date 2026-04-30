@@ -1,171 +1,230 @@
 <div align="center">
 
-<!-- ✨ Header Banner: 渐变波浪 + 名字 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Moekotori&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Former%20ACMer%20%E2%86%92%20%F0%9F%8C%B8%20Indie%20Maker&descAlignY=62&descSize=18" width="100%" />
+<!-- 🌸 顶部粉色波浪 banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Moekotori&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=%E2%9A%94%EF%B8%8F%20Former%20ACMer%20%E2%86%92%20%F0%9F%8C%B8%20Indie%20Maker%20%E2%99%A1&descAlignY=68&descSize=18" width="100%" />
 
-<!-- ✨ 打字机动画 -->
-<a href="https://github.com/Moekotori">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&width=720&height=60&lines=%E3%80%8C%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%80%81%E9%9F%B3%E3%82%92%E5%A5%8F%E3%81%A7%E3%82%8B%E3%80%8D+%E2%99%AA;%E2%9A%94%EF%B8%8F+Former+ACMer+%C2%B7+%E9%80%80%E5%BD%B9%E7%AB%9E%E8%B5%9B%E7%94%9F;%F0%9F%8C%B8+Indie+Maker+%C2%B7+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85;%F0%9F%8E%B5+Author+of+ECHO+%C2%B7+Bit-Perfect+%E6%92%AD%E6%94%BE%E5%99%A8;%F0%9F%9A%80+%E5%9C%A8%E5%81%9A%E8%AE%A9%E4%B8%96%E7%95%8C%E6%9B%B4%E5%A5%BD%E5%90%AC%E7%9A%84%E4%BA%8B" alt="Typing SVG" />
-</a>
+<br />
 
-<br /><br />
+### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
 
-<!-- ✨ Profile views + followers + stars -->
+### 🐰 ようこそ! Welcome to my little garden 🌸
+
+### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
+
+<br />
+
+<!-- 软萌徽章三件套 -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Moekotori&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Moekotori&style=for-the-badge&color=FFB6D9&label=%F0%9F%8C%B8+visitors" />
   <a href="https://github.com/Moekotori?tab=followers">
-    <img src="https://img.shields.io/github/followers/Moekotori?style=for-the-badge&color=FFD700&logo=github&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/github/followers/Moekotori?style=for-the-badge&color=FFC8DD&logo=github&logoColor=white&labelColor=FF87C8&label=%F0%9F%8E%80+followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/Moekotori?style=for-the-badge&color=00D9FF&logo=apachespark&logoColor=white&labelColor=1a1a2e&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/github/stars/Moekotori?style=for-the-badge&color=FFE5F1&logo=apachespark&logoColor=white&labelColor=FFB6D9&label=%E2%AD%90+stars" />
 </p>
 
 </div>
 
----
+<br />
 
-## 🌸 自我紹介 · About Me
+<!-- 🌸 粉色星星分割线 -->
+<div align="center">
+
+`🌸 ━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━ 🌸`
+
+</div>
+
+## 🍓 自我紹介 · About Me
 
 ```typescript
-const moekotori: Developer = {
-  identity: ["⚔️ Former ACMer", "🌸 Indie Maker", "🎵 Audiophile"],
-  current_focus: "Building ECHO — a bit-perfect HiFi music player",
-  stack: {
-    languages: ["TypeScript", "C / C++", "Rust", "Python"],
-    frontend:  ["React", "Electron", "Vite"],
-    audio:     ["WASAPI", "FFmpeg", "naudiodon"],
-    weapons:   ["Vim ⚔️", "Cursor 🐱", "tmux 🪟"],
-  },
-  loves:    ["二次元 🌸", "競プロ 🧩", "HiFi 音響 🎧", "深夜 Coding ☕"],
-  motto:    "「駆け抜ける、コードと音の彼方へ」",
-  ask_me_about: ["Algorithm", "Audio Engineering", "Electron 黑魔法", "动漫"],
-  fun_fact: "白天写竞赛代码,晚上做播放器,凌晨在听歌哭",
+const moekotori = {
+  identity:    ["⚔️ Former ACMer", "🌸 Indie Maker", "🎀 Audiophile"],
+  current:     "🚀 在做让世界更好听的事 ♪",
+  project:     "🎵 ECHO — bit-perfect HiFi music player",
+  weapons:     ["TypeScript ✨", "C / C++ 🍡", "Rust 🦀", "Python 🐍"],
+  frontend:    ["React 💗", "Electron 💜", "Vite ⚡"],
+  loves:       ["二次元 🌸", "競プロ 🧩", "HiFi 音響 🎧", "深夜コーディング ☕"],
+  motto:       "「コードを書く、音を奏でる」 ♡",
+  fun_fact:    "白天写竞赛代码,晚上做播放器,凌晨在听歌哭 (｡•́︿•̀｡)",
+  ask_me:      ["Algorithm 🧠", "Audio Engineering 🎧", "Electron 黑魔法 ✨", "动漫 🎴"],
 }
 ```
 
----
+<br />
 
-<!-- ✨ 三张大卡片:GitHub Stats / Top Langs / Streak -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Moekotori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=00D9FF&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moekotori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" />
+`🍡 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🍡`
+
+</div>
+
+## 🎀 GitHub 小卡片
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Moekotori&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moekotori&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B5CF6&langs_count=8" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Moekotori&theme=radical&hide_border=true&background=FFF0F5&stroke=FF87C8&ring=FF69B4&fire=FFB6D9&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FF87C8&sideNums=FF69B4&currStreakNum=FF69B4" width="80%" />
+
+</div>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Moekotori&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=00D9FF&fire=FFD700&currStreakLabel=8B5CF6" width="80%" />
+<div align="center">
+
+`🎀 ━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━ 🎀`
 
 </div>
 
----
-
-## ⚔️ 武器庫 · Weapons & Skills
+## 🧸 武器庫 · Skills
 
 <div align="center">
 
-### Languages
+#### ✨ Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,c,cpp,rust,python,go,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,c,cpp,rust,python,go,lua&theme=light" />
 
-### Framework & Tools
+<br />
 
-<img src="https://skillicons.dev/icons?i=react,electron,vite,nodejs,tailwind,vue,nextjs,tauri&theme=dark" />
+#### 💗 Frontend & Apps
 
-### Backend & Infra
+<img src="https://skillicons.dev/icons?i=react,electron,vite,nodejs,tailwind,vue,nextjs,tauri&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,git,github,vercel&theme=dark" />
+<br />
 
-### Editor & Workflow
+#### 🍡 Backend & Infra
 
-<img src="https://skillicons.dev/icons?i=vim,vscode,figma,obsidian,bash,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,git,github,vercel&theme=light" />
+
+<br />
+
+#### 🌷 Editor & Workflow
+
+<img src="https://skillicons.dev/icons?i=vim,vscode,figma,obsidian,bash,powershell&theme=light" />
 
 </div>
 
----
+<br />
 
-## 🎯 Featured Projects · 主战场
+<div align="center">
+
+`💖 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 💖`
+
+</div>
+
+## 🌟 主战场 · Featured Project
 
 <div align="center">
 
 <a href="https://github.com/Moekotori/ECHO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moekotori&repo=ECHO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=00D9FF&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moekotori&repo=ECHO&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
 </a>
 
 </div>
 
-> 🎵 **ECHO** —— *The Bit-Perfect Bridge to Your Sonic Multiverse*
-> 一款基于 Electron + React 的高保真桌面音乐播放器,WASAPI 独占输出 / 卡拉OK 歌词 / MV 自动匹配 / 共听房间 / 沙箱插件系统。
+> 🎵 **ECHO** ・ *The Bit-Perfect Bridge to Your Sonic Multiverse*
+> 🌸 一款基于 Electron + React 的高保真桌面音乐播放器
+> 🎀 WASAPI 独占输出 ・ 卡拉OK 歌词 ・ MV 自动匹配 ・ 共听房间 ・ 沙箱插件
 
----
+<br />
 
-## 🧩 ACMer 的过往 · Competitive Programming Past
+<div align="center">
 
-```diff
-+ ⚔️ ICPC / CCPC 赛场上的退役老将
-+ 🧠 算法武器库:DP / 图论 / 数据结构 / 数学
-+ 🎯 解过的题 ≈ 见过的 bug × 2
-+ 🌸 现在用算法武器,造给世界听的工具
+`🌸 ━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━ 🌸`
+
+</div>
+
+## ⚔️ ACMer 的过往 · Once a Competitive Coder
+
+```yaml
+🏆 战场: ICPC ・ CCPC ・ Codeforces ・ AtCoder
+🧠 武器库:
+  - DP 动态规划 💗
+  - 图论 Graph Theory 🌐
+  - 数据结构 Data Structures 🍡
+  - 数学 Math & Number Theory ✨
+🎯 解过的题: 数不清的 AC ・ 更数不清的 WA (>﹏<)
+🌸 现在: 把竞赛的算法武器,用来造给世界听的工具 ♡
 ```
 
-> 「曾经在赛场上为了 AC 一道题熬到天亮 ——
-> 现在为了一行优雅的代码,依然熬到天亮。」
+<br />
 
----
+> 💭 *「曾经在赛场上为了 AC 一道题熬到天亮 ——*
+> *现在为了一行优雅的代码,依然熬到天亮。」*
 
-## 📊 GitHub Activity Graph
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moekotori&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=00D9FF&point=FFD700&area=true&area_color=8B5CF6" width="100%" />
+`🍓 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🍓`
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## 📈 Activity Garden · 我的小花园
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moekotori/Moekotori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moekotori/Moekotori/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Moekotori/Moekotori/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moekotori&theme=minimal&hide_border=true&bg_color=FFF0F5&color=FF69B4&line=FF87C8&point=8B5CF6&area=true&area_color=FFB6D9" width="100%" />
 
 </div>
 
-> 💡 想让小蛇动起来?在仓库里加 `.github/workflows/snake.yml`,我可以帮你生成。
-
----
-
-## 🎴 一日一言 · Quote of the Day
+<br />
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+`🐰 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🐰`
 
 </div>
 
----
-
-## 🌐 Connect · 找到我
+## 🍡 一日一言 · Quote of the Day
 
 <div align="center">
 
-<a href="https://github.com/Moekotori"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:mochiqwe440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Moekotori/ECHO"><img src="https://img.shields.io/badge/ECHO-8B5CF6?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-<!-- ✨ 底部波浪 footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%99%AA&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+`🎀 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🎀`
 
-### *「コードを書く手が止まらない、心の音が聞こえるから。」*
+</div>
 
-**⭐ 如果你喜欢我的项目,请给我一个 Star!**
+## 💌 Connect · 找到我
+
+<div align="center">
+
+<a href="https://github.com/Moekotori">
+  <img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white&labelColor=FF87C8" />
+</a>
+<a href="mailto:mochiqwe440@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6D9" />
+</a>
+<a href="https://github.com/Moekotori/ECHO">
+  <img src="https://img.shields.io/badge/ECHO-FFE5F1?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=FFB6D9" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!-- 🌸 底部软软波浪 footer -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,12,20,30,2&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%99%A1&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" />
+
+### 🌸 *「コードを書く手が止まらない、心の音が聞こえるから。」* 🌸
+
+### ⭐ もしよかったら、Star をください ♡
+
+### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
+
+<br />
+
+**(｡•ㅅ•｡)♡ Made with sakura & code ♡(灬º‿º灬)♡**
 
 </div>
