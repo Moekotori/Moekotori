@@ -54,48 +54,6 @@ const moekotori = {
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Moekotori&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moekotori&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B5CF6&langs_count=8" />
 
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Moekotori&theme=radical&hide_border=true&background=FFF0F5&stroke=FF87C8&ring=FF69B4&fire=FFB6D9&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FF87C8&sideNums=FF69B4&currStreakNum=FF69B4" width="80%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-`💖 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 💖`
-
-</div>
-
-## 🌟 主战场 · Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Moekotori/ECHO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moekotori&repo=ECHO&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
-</a>
-
-</div>
-
-> 🎵 **ECHO** ・ *The Bit-Perfect Bridge to Your Sonic Multiverse*
-> 🌸 一款基于 Electron + React 的高保真桌面音乐播放器
-> 🎀 WASAPI 独占输出 ・ 卡拉OK 歌词 ・ MV 自动匹配 ・ 共听房间 ・ 沙箱插件
-
-<br />
-
-<div align="center">
-
-`🍓 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🍓`
-
-</div>
-
-## 🍡 一日一言 · Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-
 </div>
 
 <br />
@@ -116,6 +74,7 @@ const moekotori = {
 <a href="mailto:mochiqwe440@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6D9" />
 </a>
+<img src="https://img.shields.io/badge/Discord-Moekotori-C8B6FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=B197FC" />
 <a href="https://github.com/Moekotori/ECHO">
   <img src="https://img.shields.io/badge/ECHO-FFE5F1?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=FFB6D9" />
 </a>
