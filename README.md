@@ -37,15 +37,13 @@
 
 ```typescript
 const moekotori = {
-  identity:    ["⚔️ Former ACMer", "🌸 Indie Maker", "🎀 Audiophile"],
+  identity:    ["Former ACMer", "🌸 Coder", "🎀 HiFi Enjoyer"],
   current:     "🚀 在做让世界更好听的事 ♪",
-  project:     "🎵 ECHO — bit-perfect HiFi music player",
-  weapons:     ["TypeScript ✨", "C / C++ 🍡", "Rust 🦀", "Python 🐍"],
   frontend:    ["React 💗", "Electron 💜", "Vite ⚡"],
-  loves:       ["二次元 🌸", "競プロ 🧩", "HiFi 音響 🎧", "深夜コーディング ☕"],
+  loves:       ["HiFi 🌸", "Algorithm", "Rhythm Games", "Coffee"],
   motto:       "「コードを書く、音を奏でる」 ♡",
-  fun_fact:    "白天写竞赛代码,晚上做播放器,凌晨在听歌哭 (｡•́︿•̀｡)",
-  ask_me:      ["Algorithm 🧠", "Audio Engineering 🎧", "Electron 黑魔法 ✨", "动漫 🎴"],
+  fun_fact:    "AI好厉害,我要失业了",
+  ask_me:      ["Algorithm ", "Audio Engineering ", "Electron ", "Anime"],
 }
 ```
 
@@ -57,7 +55,7 @@ const moekotori = {
 
 </div>
 
-## 🎀 GitHub 小卡片
+## 🎀 GitHub Card
 
 <div align="center">
 
