@@ -1,5 +1,7 @@
 <div align="center">
-# 🐰 ようこそ! Welcome to my little garden 🌸
+⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
+🐰 ようこそ! Welcome to my little garden 🌸
+⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
 <br />
 
 <p>
