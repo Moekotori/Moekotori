@@ -1,11 +1,5 @@
 <div align="center">
-
-### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
-
 # 🐰 ようこそ! Welcome to my little garden 🌸
-
-### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
-
 <br />
 
 <p>
