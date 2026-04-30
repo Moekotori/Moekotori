@@ -30,12 +30,12 @@
 
 ```typescript
 const moekotori = {
-  identity: ["⚔️ Former ACMer", "🌸 Indie Maker", "🎀 Audiophile"],
+  identity: [" Former ACMer", "Rhythm Gamer", "🎀 Coder"],
   current:  "🚀 在做让世界更好听的事 ♪",
   project:  "🎵 ECHO — bit-perfect HiFi music player",
   loves:    ["二次元 🌸", "競プロ 🧩", "HiFi 音響 🎧", "深夜コーディング ☕"],
   motto:    "「コードを書く、音を奏でる」 ♡",
-  fun_fact: "白天写代码,晚上做播放器,凌晨在听歌哭 (｡•́︿•̀｡)",
+  fun_fact: "FUCK NVIDIA",
 }
 ```
 
@@ -46,8 +46,6 @@ const moekotori = {
 `🍡 ━━━━━━━━━━━━━ ♡ ━━━━━━━━━━━━━ 🍡`
 
 </div>
-
-## 🎀 GitHub 小卡片
 
 <div align="center">
 
@@ -64,7 +62,7 @@ const moekotori = {
 
 </div>
 
-## 💌 Connect · 找到我
+## 💌 Connect 
 
 <div align="center">
 
@@ -86,9 +84,5 @@ const moekotori = {
 <div align="center">
 
 ### 🌸 *「コードを書く手が止まらない、心の音が聞こえるから。」* 🌸
-
-### ⊹˚｡⋆ ⠀ʚ ♡ ɞ⠀ ⋆｡˚⊹
-
-**(｡•ㅅ•｡)♡ Made with sakura & code ♡(灬º‿º灬)♡**
 
 </div>
